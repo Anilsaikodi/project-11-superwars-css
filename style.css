@@ -43,7 +43,7 @@ p
 }
 #div1,#div2,#div4,#div5{
   border-color:lightgray;
-  box-shadow: 0 0 2px 2px #ccc;
+  box-shadow: 0 0 2px 2px rgb(202, 202, 202);
   
 }
 
